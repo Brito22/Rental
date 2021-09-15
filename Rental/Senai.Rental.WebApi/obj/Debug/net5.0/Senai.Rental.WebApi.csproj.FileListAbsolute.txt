@@ -1,0 +1,67 @@
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\appsettings.json
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.exe
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.deps.json
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.runtimeconfig.json
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.runtimeconfig.dev.json
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\ref\Senai.Rental.WebApi.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.pdb
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.csproj.AssemblyReference.cache
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.AssemblyInfoInputs.cache
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.AssemblyInfo.cs
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.csproj.CoreCompileInputs.cache
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Rental.WebApi.StaticWebAssets.Manifest.cache
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Rental.WebApi.StaticWebAssets.xml
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\scopedcss\bundle\Senai.Rental.WebApi.styles.css
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.RazorTargetAssemblyInfo.cache
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.csproj.CopyComplete
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.dll
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\ref\Senai.Rental.WebApi.dll
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.pdb
+D:\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.genruntimeconfig.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.exe
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.deps.json
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.runtimeconfig.json
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\ref\Senai.Rental.WebApi.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.pdb
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Senai.Rental.WebApi.xml
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.csproj.AssemblyReference.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Rental.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\staticwebassets\Senai.Rental.WebApi.StaticWebAssets.xml
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\scopedcss\bundle\Senai.Rental.WebApi.styles.css
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.csproj.CopyComplete
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\ref\Senai.Rental.WebApi.dll
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.xml
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.pdb
+C:\Users\fic\Desktop\senai_sprint 1]\Sprint-2-BackEnd\Rental\Senai.Rental.WebApi\obj\Debug\net5.0\Senai.Rental.WebApi.genruntimeconfig.cache
